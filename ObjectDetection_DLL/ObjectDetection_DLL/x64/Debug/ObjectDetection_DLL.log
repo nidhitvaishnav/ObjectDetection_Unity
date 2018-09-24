@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(67): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(67): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(68): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(68): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(69): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(69): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(70): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(70): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(71): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(71): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(72): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(72): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(238): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nidhi\source\repos\objectdetection_dll\objectdetection_dll\source.cpp(239): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\nidhi\source\repos\ObjectDetection_DLL\x64\Debug\ObjectDetection_DLL.lib and object C:\Users\nidhi\source\repos\ObjectDetection_DLL\x64\Debug\ObjectDetection_DLL.exp
+  ObjectDetection_DLL.vcxproj -> C:\Users\nidhi\source\repos\ObjectDetection_DLL\x64\Debug\ObjectDetection_DLL.dll
